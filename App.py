@@ -33,7 +33,9 @@ st.text_input("When you look into a mirror, how do you know that the person look
 st.text_input("If you were guaranteed that nobody would ever discover your actions, there would be no punishment, and nobody would remember what you did, would you still choose to be a good person? Or is your morality simply a performance for other people?")
 st.text_input("If you had to prove that you are human to something that understands every human emotion, every human thought, and every human behavior, what could you possibly show it that it couldn't simply imitate? And what if it asked you the same question?")
 
-st.image(r"C:\Users\crgmo\Desktop\UncannyAI.jpg", caption="HUMANOID: PORTRAIT OF ROBOTS THAT LOOK LIKE PEOPLE")
+
+st.image("UncannyAI.jpg", caption="HUMANOID: PORTRAIT OF ROBOTS THAT LOOK LIKE PEOPLE")
+
 st.text_area('Final Question: How does this image make you feel')
 
 st.header("Thats All. For Now...")
